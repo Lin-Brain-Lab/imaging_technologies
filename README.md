@@ -1,14 +1,17 @@
+We focus on the methodological devlopment of human neuroimaging and neuromodulation methods to study neuroscientific questions and translate these technologies to improve health care.
+
 ## magnetic resonance imaging (MRI)
 
-This is different from MPRAGE images. MP2RAGE generates three sets of images, which are two sets of images at two different TI with one TI specified with nulled gray matter signal and one set of images as the ratio between the two. The ratio images have much better gray/white matter contrast. It is that set of images (ratio images) to be used for FreeSurfer reconstruction.
-
-The images below are three sets of images from one subject at 7T using MP2RAGE. The one in the middle should be used for FreeSurfer reconstruction.
-[[https://github.com/fahsuanlin/labmanual/blob/master/images/mp2rage.png]]
+MRI uses a strong magnetic field to delineate brain structure, function, and metabolism. We continuously develop imaging acquisition and analysis for brain imaging.
 
 ## electroencephalography (EEG) and magnetoencephalography (MEG)
 
-Run the following commands to get 9 intermediate equi-spaced surfaces between gray/white matter boundary (?h.white) and gray matter/pial surface boundary (?h.pial).
+EEG and MEG non-invasively measuers the post-synaptic neural activity. We seek technological advancement of EEG and MEG and synergic combination of these methods with MRI.
 
 ## stereo-electroencephalography (SEEG)
 
+SEEG provides an unprecedented spatiotemporal resolution of neuronal activities. These invasive measurements are done in epilepsy patients. SEEG can not only benefit epilepsy management but also advance our understanding of neuronal activity during cognition and behaviours. 
+
 ## transcranial magnetic stimulation (TMS)
+
+TMS non-invasively activates the neural activity via a transiently strong magnetic field. It is a powerful interventional device for modulating neuoronal dynamics and managing mental disorders. Coupling TMS with neuroimaging methods has the promise of sensitive and spatiotemporally accurate modulation of the neuronal activity.

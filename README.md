@@ -1,3 +1,12 @@
+
+<style>
+mark{
+    color:red;
+}
+</style>
+
+<mark>what is DataBase</mark>
+
 We focus on the methodological devlopment of human neuroimaging and neuromodulation methods to study neuroscientific questions and translate these technologies to improve health care.
 
 ## magnetic resonance imaging (MRI)

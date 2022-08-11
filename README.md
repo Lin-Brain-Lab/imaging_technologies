@@ -3,13 +3,13 @@ Understanding how the brain supports behavior and cognition necessitates the unr
 We focus on the methodological devlopment of human neuroimaging and neuromodulation methods to study neuroscientific questions and translate these technologies to improve health care.
 
 ## magnetic resonance imaging (MRI) and functional magnetic resonance imaging (fMRI)
-
+Figure 1. An image of the research-purpose Siemens MRI machine.
 MRI uses a strong magnetic field to delineate brain structure, function, and metabolism. We continuously develop imaging acquisition and analysis for brain imaging. Specifically, a subset of MRI neuroimaging technology used in cognitive neuroscience experiments is the functional magnetic resonance imaging (fMRI). It uses intrinsic hemodynamic response contrast to map human brain functions and study the structural and metabolics of the brain. When a particular neural region is stimulated, there is an increase of blood flow due to the increased demand for energy to process the stimulus. This technology has versatile contrasts, high sensitivity depth, and precise millimeter spatial resolution to quantify and delineate the spatial distribution of metabolites. However, MRI fails to provide good temporal resolution as the blood-oxygen response takes place within seconds. 
 
 ![image](https://user-images.githubusercontent.com/109825854/183358519-47d71038-a907-4f5c-aa75-09281cff602c.png)
 
 ## electroencephalography (EEG) 
-
+Figure 2. An image of the 64 channel MRI-compatible EEG system from Brain Products, Germany.
 Electroencephalography (EEG) is another technology used in studying the human brain function non-invasively by using extracranial measurements of aggregates and concerts of electric potentials that manifest from the neurons’ response to stimulus. EEG is directly sensitive to neuronal activities and has a millisecond temporal resolution. However, it fails to yield good spatial resolution as it poorly localizes the signal sources. 
 
 ![image](https://user-images.githubusercontent.com/109825854/183358406-d7bdb283-5de3-42e6-b0ba-165bb94e6ff6.png)
